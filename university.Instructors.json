@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "65bdecef121c3b2edf233dca"
+  },
+  "Name": "Prof.Eddie Jessup",
+  "Faculty": "Medicine",
+  "Address": {
+    "Street": "4459 Rockford Road",
+    "City": "Reno",
+    "State": "Nevada"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bdecef121c3b2edf233dcb"
+  },
+  "Name": "Prof.William Dyer",
+  "Faculty": "Science",
+  "Address": {
+    "Street": "3325 Cambridge Drive",
+    "City": "Glendale",
+    "State": "Arizona"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bdecef121c3b2edf233dcc"
+  },
+  "Name": "Prof.Cuthbert Binns",
+  "Faculty": "Management & Finance",
+  "Address": {
+    "Street": "3944 Ash Street",
+    "City": "Garland",
+    "State": "Texas"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bdecef121c3b2edf233dcd"
+  },
+  "Name": "Prof.Filius Flitwick",
+  "Faculty": "Arts",
+  "Address": {
+    "Street": "4981 Hillside Street",
+    "City": "Scottsdale",
+    "State": "Virginia"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bdecef121c3b2edf233dce"
+  },
+  "Name": "Prof.Minerva McGonagall",
+  "Faculty": "Technology",
+  "Address": {
+    "Street": "561 Patton Lane",
+    "City": "Fremont",
+    "State": "North Carolina"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bdecef121c3b2edf233dcf"
+  },
+  "Name": "Prof.Alastor Moody",
+  "Faculty": "Law",
+  "Address": {
+    "Street": "2879 Maple Avenue",
+    "City": "Modesto",
+    "State": "California"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bdee04121c3b2edf233dd0"
+  },
+  "Name": "Prof.Septima Vector",
+  "Faculty": "Medicine",
+  "Address": {
+    "Street": "1904 Collins Street",
+    "City": "Tampa",
+    "State": "Florida"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bdee04121c3b2edf233dd1"
+  },
+  "Name": "Prof.Dolores Jane Umbridge",
+  "Faculty": "Science",
+  "Address": {
+    "Street": "4935 Golf Course Drive",
+    "City": "Arlington",
+    "State": "Virginia"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bdee04121c3b2edf233dd2"
+  },
+  "Name": "Prof.Sybill Trelawney",
+  "Faculty": "Management & Finance",
+  "Address": {
+    "Street": "4829 Camel Back Road",
+    "City": "Tulsa",
+    "State": "Oklahoma"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bdee04121c3b2edf233dd3"
+  },
+  "Name": "Prof.Pomona Sprout",
+  "Faculty": "Education",
+  "Address": {
+    "Street": "4324 Tenmile",
+    "City": "Virginia Beach",
+    "State": "Colorado"
+  }
+}]

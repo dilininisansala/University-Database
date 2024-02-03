@@ -1,0 +1,140 @@
+[{
+  "_id": {
+    "$oid": "65bdef39121c3b2edf233dd4"
+  },
+  "Name": "Certificate Course in Ayurveda Pharmacy",
+  "Duration": "4 Months"
+},
+{
+  "_id": {
+    "$oid": "65bdef39121c3b2edf233dd5"
+  },
+  "Name": "Diploma in Communication and Media Studies",
+  "Duration": "1 Year"
+},
+{
+  "_id": {
+    "$oid": "65bdef39121c3b2edf233dd6"
+  },
+  "Name": "Master of Regional Development and Planning",
+  "Duration": "1 Year"
+},
+{
+  "_id": {
+    "$oid": "65bdef39121c3b2edf233dd7"
+  },
+  "Name": "Higher National Diploma in Art and Design",
+  "Duration": "6 Months"
+},
+{
+  "_id": {
+    "$oid": "65bdf038121c3b2edf233dd8"
+  },
+  "Name": "Certificate in Herbal Cosmetic Products Development",
+  "Duration": "4 Months"
+},
+{
+  "_id": {
+    "$oid": "65bdf038121c3b2edf233dd9"
+  },
+  "Name": "Master of Development Studie",
+  "Duration": "1 Year"
+},
+{
+  "_id": {
+    "$oid": "65bdf038121c3b2edf233dda"
+  },
+  "Name": "Executive Diploma in Marketing",
+  "Duration": "1 Year"
+},
+{
+  "_id": {
+    "$oid": "65bdf038121c3b2edf233ddb"
+  },
+  "Name": "Masters in Information Systems Management ",
+  "Duration": "2 Years"
+},
+{
+  "_id": {
+    "$oid": "65bdf038121c3b2edf233ddc"
+  },
+  "Name": "Diploma in Human Resources Management",
+  "Duration": "1 Year"
+},
+{
+  "_id": {
+    "$oid": "65bdf038121c3b2edf233ddd"
+  },
+  "Name": "Diploma in Computer-based Accounting and Information Systems",
+  "Duration": "3 Years"
+},
+{
+  "_id": {
+    "$oid": "65bdf038121c3b2edf233dde"
+  },
+  "Name": "Diploma in Finance",
+  "Duration": "1 Year"
+},
+{
+  "_id": {
+    "$oid": "65bdf038121c3b2edf233ddf"
+  },
+  "Name": "Postgraduate Diploma in Banking and Finance",
+  "Duration": "1 Year"
+},
+{
+  "_id": {
+    "$oid": "65bdf038121c3b2edf233de0"
+  },
+  "Name": "Bachelor of Animal Science",
+  "Duration": "4 Years"
+},
+{
+  "_id": {
+    "$oid": "65bdf038121c3b2edf233de1"
+  },
+  "Name": "Bachelor of Applied Science in Food Technology",
+  "Duration": "3 Years"
+},
+{
+  "_id": {
+    "$oid": "65bdf038121c3b2edf233de2"
+  },
+  "Name": "Bachelor of Arts in Foreign Language & Translation",
+  "Duration": "2 Years"
+},
+{
+  "_id": {
+    "$oid": "65bdf038121c3b2edf233de3"
+  },
+  "Name": "Diploma in International Migration Studies",
+  "Duration": "6 Months"
+},
+{
+  "_id": {
+    "$oid": "65bdf0cc121c3b2edf233de4"
+  },
+  "Name": "Master of Philosophy in Sociology",
+  "Duration": "4 Years"
+},
+{
+  "_id": {
+    "$oid": "65bdf0cc121c3b2edf233de5"
+  },
+  "Name": "MSc in Financial Mathematics",
+  "Duration": "4 Years"
+},
+{
+  "_id": {
+    "$oid": "65bdf0cc121c3b2edf233de6"
+  },
+  "Name": "Postgraduate Diploma in Buddhist Studies",
+  "Duration": "2 Years"
+},
+{
+  "_id": {
+    "$oid": "65bdf0cc121c3b2edf233de7"
+  },
+  "Name": "MSc in Chemistry Education",
+  "Duration": "3 Years"
+}]

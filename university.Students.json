@@ -1,0 +1,725 @@
+[{
+  "_id": {
+    "$oid": "65bddf67121c3b2edf233d98"
+  },
+  "Name": "Wesley Angel",
+  "Age": 20,
+  "GPA": 3.2,
+  "Address": {
+    "Street": "240 MGM Grand Dr",
+    "City": "Ledyard",
+    "State": "Connecticut"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bde0cd121c3b2edf233d99"
+  },
+  "Name": "Nolan Jaxon",
+  "Age": 20,
+  "GPA": 3.8,
+  "Gender": "Male",
+  "Address": {
+    "Street": "410 County Road 148",
+    "City": "Louisiana",
+    "State": "Texas"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bde0cd121c3b2edf233d9a"
+  },
+  "Name": "Joshua Adrian",
+  "Age": 21,
+  "GPA": 3,
+  "Gender": "Male",
+  "Address": {
+    "Street": "615 Pere Antoine Alley",
+    "City": "New Orleans",
+    "State": "Texas"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bde2bf121c3b2edf233d9b"
+  },
+  "Name": "Lincoln Cooper",
+  "Age": 18,
+  "GPA": 2.1,
+  "Gender": "Male",
+  "Address": {
+    "Street": "3113 Lost Creek Road",
+    "City": "Golden Valley",
+    "State": "Minnesota"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bde2bf121c3b2edf233d9c"
+  },
+  "Name": "Caleb Nathan",
+  "Age": 21,
+  "GPA": 2,
+  "Gender": "Male",
+  "Address": {
+    "Street": "1235 Williams Mine Road",
+    "City": "Savoonga",
+    "State": "Texas"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bde2bf121c3b2edf233d9d"
+  },
+  "Name": "Charles Santiago",
+  "Age": 19,
+  "GPA": 1.5,
+  "Gender": "Male",
+  "Address": {
+    "Street": "2692 Ferry Street",
+    "City": "Huntsville",
+    "State": "Alabama"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bde2bf121c3b2edf233d9e"
+  },
+  "Name": "Anthony Carter",
+  "Age": 20,
+  "GPA": 1.6,
+  "Gender": "Male",
+  "Address": {
+    "Street": "4405 Green Hill Road",
+    "City": "Huntsville",
+    "State": "Alabama"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bde2bf121c3b2edf233d9f"
+  },
+  "Name": "Gabriel Matthew Isaac",
+  "Age": 22,
+  "GPA": 2.8,
+  "Gender": "Male",
+  "Address": {
+    "Street": "491 Cambridge Court",
+    "City": "Arkansas",
+    "State": "Texas"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bde2bf121c3b2edf233da0"
+  },
+  "Name": "Luck Maverick",
+  "Age": 23,
+  "GPA": 2.3,
+  "Gender": "Male",
+  "Address": {
+    "Street": "410 Maple Avenue",
+    "City": "Phoenix",
+    "State": "Arizona"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bde2bf121c3b2edf233da1"
+  },
+  "Name": "Jacob Logan",
+  "Age": 24,
+  "GPA": 2.2,
+  "Gender": "Male",
+  "Address": {
+    "Street": "2879 Maple Avenue",
+    "City": "Phoenix",
+    "State": "Arizona"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bde44c121c3b2edf233da2"
+  },
+  "Name": "Olivia Harper",
+  "Age": 18,
+  "GPA": 2.1,
+  "Gender": "Female",
+  "Address": {
+    "Street": "1020 Locust Court",
+    "City": "Anaheim",
+    "State": "California"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bde44c121c3b2edf233da3"
+  },
+  "Name": "Emma Isabella",
+  "Age": 18,
+  "GPA": 2,
+  "Gender": "Female",
+  "Address": {
+    "Street": "3868 Pick Street",
+    "City": "Oak Creek",
+    "State": "Colorado"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bde44c121c3b2edf233da4"
+  },
+  "Name": "Charlotte O'Casey",
+  "Age": 19,
+  "GPA": 3.5,
+  "Gender": "Female",
+  "Address": {
+    "Street": "1655 Copperhead Road",
+    "City": "Farmington",
+    "State": "Colorado"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bde44c121c3b2edf233da5"
+  },
+  "Name": "Amelia Logan",
+  "Age": 21,
+  "GPA": 3.6,
+  "Gender": "Female",
+  "Address": {
+    "Street": "2463 Horizon Circle",
+    "City": "Tukwila",
+    "State": "Washington"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bde44c121c3b2edf233da6"
+  },
+  "Name": "Sophia Eleanor",
+  "Age": 22,
+  "GPA": 1.8,
+  "Gender": "Female",
+  "Address": {
+    "Street": "792 Argonne Street",
+    "City": "Felton",
+    "State": "Delaware"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bde44c121c3b2edf233da7"
+  },
+  "Name": "Ava Penelope",
+  "Age": 23,
+  "GPA": 1.3,
+  "Gender": "Femalee",
+  "Address": {
+    "Street": "4194 Stoneybrook Road",
+    "City": "Cocoa",
+    "State": "Florida"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bde44c121c3b2edf233da8"
+  },
+  "Name": "Evelyn Madison",
+  "Age": 25,
+  "GPA": 2,
+  "Gender": "Female",
+  "Address": {
+    "Street": "4860 Heavner Avenue",
+    "City": "Norcross",
+    "State": "Georgia"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bde8e1121c3b2edf233da9"
+  },
+  "Name": "Lily Greg",
+  "Age": 18,
+  "GPA": 2.1,
+  "Gender": "Female",
+  "Address": {
+    "Street": "4664 Indiana Avenue",
+    "City": "Waipahu",
+    "State": "Hawaii"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bde8e1121c3b2edf233daa"
+  },
+  "Name": "Camila Hartmann",
+  "Age": 18,
+  "GPA": 2,
+  "Gender": "Female",
+  "Address": {
+    "Street": "3032 Sigley Road",
+    "City": "Salina",
+    "State": "Kansas"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bde8e1121c3b2edf233dab"
+  },
+  "Name": "Layla Harriet",
+  "Age": 19,
+  "GPA": 3.5,
+  "Gender": "Female",
+  "Address": {
+    "Street": "4161 May Street",
+    "City": "Owingsville",
+    "State": "Kentucky"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bde8e1121c3b2edf233dac"
+  },
+  "Name": "Nora Greg",
+  "Age": 21,
+  "GPA": 3.6,
+  "Gender": "Female",
+  "Address": {
+    "Street": "132/56 Rose Avenue",
+    "City": "Metairie",
+    "State": "Washington"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bde8e1121c3b2edf233dad"
+  },
+  "Name": "Hazel Scott",
+  "Age": 22,
+  "GPA": 1.8,
+  "Gender": "Female",
+  "Address": {
+    "Street": "4429 Flinderation Road",
+    "City": "Chicago",
+    "State": "Illinois"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bde8e1121c3b2edf233dae"
+  },
+  "Name": "Avery Grainger",
+  "Age": 23,
+  "GPA": 1.3,
+  "Gender": "Femalee",
+  "Address": {
+    "Street": "2693 Stewart Street",
+    "City": "Danville",
+    "State": "Indiana"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bde8e1121c3b2edf233daf"
+  },
+  "Name": "Ella Loftus",
+  "Age": 25,
+  "GPA": 2,
+  "Gender": "Female",
+  "Address": {
+    "Street": "42 DC Sigley Road",
+    "City": "Salina",
+    "State": "Kansas"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bde8e1121c3b2edf233db0"
+  },
+  "Name": "Abigail Zygote",
+  "Age": 18,
+  "GPA": 2,
+  "Gender": "Female",
+  "Address": {
+    "Street": "4161 May Street",
+    "City": "Owingsville",
+    "State": "Colorado"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bde8e1121c3b2edf233db1"
+  },
+  "Name": "Elizabeth Harvey",
+  "Age": 19,
+  "GPA": 3.5,
+  "Gender": "Female",
+  "Address": {
+    "Street": "3952 Rainy Day Drive",
+    "City": "Cambridge",
+    "State": "Massachusetts"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bde8e1121c3b2edf233db2"
+  },
+  "Name": "Gianna Krumple",
+  "Age": 21,
+  "GPA": 3.6,
+  "Gender": "Female",
+  "Address": {
+    "Street": "331 Terra Cotta Street",
+    "City": "Cotton",
+    "State": "Washington"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bde8e1121c3b2edf233db3"
+  },
+  "Name": "Sofia Carroll",
+  "Age": 22,
+  "GPA": 1.8,
+  "Gender": "Female",
+  "Address": {
+    "Street": "2343 Penn Street",
+    "City": "Saint Louis",
+    "State": "Minnesota"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bde8e1121c3b2edf233db4"
+  },
+  "Name": "Camila Wolf",
+  "Age": 23,
+  "GPA": 1.3,
+  "Gender": "Femalee",
+  "Address": {
+    "Street": "2835 Rafe Lane",
+    "City": "Batesville",
+    "State": "Missouri"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bde8e1121c3b2edf233db5"
+  },
+  "Name": "Luna Scarlett",
+  "Age": 25,
+  "GPA": 2,
+  "Gender": "Female",
+  "Address": {
+    "Street": "1309 West Fork Street",
+    "City": "North Poplar",
+    "State": "Montana"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bde8e1121c3b2edf233db6"
+  },
+  "Name": "Joseph Davson",
+  "Age": 18,
+  "GPA": 2,
+  "Gender": "Male",
+  "Address": {
+    "Street": "3899 Goosetown Drive",
+    "City": "Charlotte",
+    "State": "North Carolina"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bde8e1121c3b2edf233db7"
+  },
+  "Name": "Mason Aiden",
+  "Age": 19,
+  "GPA": 2.5,
+  "Gender": "Male",
+  "Address": {
+    "Street": "786 Catherine Drive",
+    "City": "Scranton",
+    "State": "North Dakota"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bde8e1121c3b2edf233db8"
+  },
+  "Name": "Luca Hudson",
+  "Age": 21,
+  "GPA": 2.4,
+  "Gender": "Male",
+  "Address": {
+    "Street": "4431 Kyle Street",
+    "City": "Grand Island",
+    "State": "Nebraska"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bde8e1121c3b2edf233db9"
+  },
+  "Name": "Ezra Fitz",
+  "Age": 22,
+  "GPA": 2.8,
+  "Gender": "Male",
+  "Address": {
+    "Street": "3505 Grasselli Street",
+    "City": "Merrimack",
+    "State": "New Hampshire"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bde8e1121c3b2edf233dba"
+  },
+  "Name": "Leo Smith",
+  "Age": 23,
+  "GPA": 2.7,
+  "Gender": "Male",
+  "Address": {
+    "Street": "3159 Finwood Road",
+    "City": "Montclair",
+    "State": "New Jersey"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bde8e1121c3b2edf233dbb"
+  },
+  "Name": "Ethan Hunt",
+  "Age": 25,
+  "GPA": 2.7,
+  "Gender": "Male",
+  "Address": {
+    "Street": "2563 Waterview Lane",
+    "City": "Dora",
+    "State": "New Mexico"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bde8e1121c3b2edf233dbc"
+  },
+  "Name": "Alexander Asher Samuel",
+  "Age": 25,
+  "GPA": 2,
+  "Gender": "Male",
+  "Address": {
+    "Street": "4492 Martha Ellen Drive",
+    "City": "Elko",
+    "State": "Nevada"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bde8e1121c3b2edf233dbd"
+  },
+  "Name": "Liam Sebastian",
+  "Age": 18,
+  "GPA": 2.6,
+  "Gender": "Male",
+  "Address": {
+    "Street": "1030 Hoffman Avenue",
+    "City": "Huntington",
+    "State": "New York"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bde8e1121c3b2edf233dbe"
+  },
+  "Name": "Oliver Lucas",
+  "Age": 19,
+  "GPA": 3.2,
+  "Gender": "Male",
+  "Address": {
+    "Street": "640 Cedarstone Drive",
+    "City": "Tiffin",
+    "State": "Ohio"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bde8e1121c3b2edf233dbf"
+  },
+  "Name": "James Benjamin",
+  "Age": 21,
+  "GPA": 3.4,
+  "Gender": "Male",
+  "Address": {
+    "Street": "520 Bridge Street",
+    "City": "Tulsa",
+    "State": "Oklahoma"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bde8e1121c3b2edf233dc0"
+  },
+  "Name": "William Theodore",
+  "Age": 22,
+  "GPA": 1.7,
+  "Gender": "Male",
+  "Address": {
+    "Street": "2661 Kincheloe Road",
+    "City": "Newberg",
+    "State": "Oregon"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bde8e1121c3b2edf233dc1"
+  },
+  "Name": "Henry Mateo",
+  "Age": 23,
+  "GPA": 1.8,
+  "Gender": "Male",
+  "Address": {
+    "Street": "2361 Conference Center Way",
+    "City": "Lock Haven",
+    "State": "Pennsylvania"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bde8e1121c3b2edf233dc2"
+  },
+  "Name": "Daniel Jack",
+  "Age": 25,
+  "GPA": 2.2,
+  "Gender": "Male",
+  "Address": {
+    "Street": "3681 Myra Street",
+    "City": "North Kingstown",
+    "State": "Rhode Island"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bde8e1121c3b2edf233dc3"
+  },
+  "Name": "Michael Owen",
+  "Age": 25,
+  "GPA": 2.1,
+  "Gender": "Male",
+  "Address": {
+    "Street": "289 Philadelphia Avenue",
+    "City": "Ogden",
+    "State": "Mississippi"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bdeaa2121c3b2edf233dc4"
+  },
+  "Name": "Amelia Robert",
+  "Age": 17,
+  "GPA": 2.9,
+  "Gender": "Male",
+  "Address": {
+    "Street": "4860 Heavner Avenue",
+    "City": "Norcross",
+    "State": "Georgia"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bdeaa2121c3b2edf233dc5"
+  },
+  "Name": "David Jr. Dosan",
+  "Age": 18,
+  "GPA": 3,
+  "Gender": "Male",
+  "Address": {
+    "Street": "1564 Wolf Pen Road",
+    "City": "San Francisco",
+    "State": "California"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bdeaa2121c3b2edf233dc6"
+  },
+  "Name": "William Smith",
+  "Age": 16,
+  "GPA": 3.1,
+  "Gender": "Male",
+  "Address": {
+    "Street": "3413 Driftwood Road",
+    "City": "San Jose",
+    "State": "California"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bdeaa2121c3b2edf233dc7"
+  },
+  "Name": "Donald Wise",
+  "Age": 23,
+  "GPA": 3.2,
+  "Gender": "Male",
+  "Address": {
+    "Street": "4460 Farland Avenue",
+    "City": "San Antonio",
+    "State": "Texas"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bdeaa2121c3b2edf233dc8"
+  },
+  "Name": "Vivian Vu",
+  "Age": 24,
+  "GPA": 2.8,
+  "Gender": "Female",
+  "Address": {
+    "Street": "4483 Werninger Street",
+    "City": "Houston",
+    "State": "Kentucky"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bdeaa2121c3b2edf233dc9"
+  },
+  "Name": "Chloe Nickson",
+  "Age": 23,
+  "GPA": 2.3,
+  "Gender": "Female",
+  "Address": {
+    "Street": "2492 Cerullo Road",
+    "City": "Louisville",
+    "State": "Atlanta"
+  }
+},
+{
+  "_id": {
+    "$oid": "65be0343121c3b2edf233de8"
+  },
+  "Name": "Wesley John",
+  "Age": null,
+  "GPA": 3.7,
+  "Address": {
+    "Street": "345 MGM Grand",
+    "City": "Ledyard",
+    "State": "Connecticut"
+  }
+},
+{
+  "_id": {
+    "$oid": "65be03d9121c3b2edf233de9"
+  },
+  "Name": "Agatha Christie",
+  "Age": null,
+  "GPA": 3.1,
+  "Address": {
+    "Street": "58 Sheffield Terrace",
+    "City": "Holland Park",
+    "State": "Kensington"
+  }
+}]
